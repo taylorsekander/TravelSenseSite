@@ -1,0 +1,11 @@
+{
+  "name": "travelsense20",
+  "main": "_worker.js",
+  "compatibility_date": "2026-08-05",
+  "compatibility_flags": ["nodejs_compat"],
+  "observability": { "enabled": true },
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  }
+}
